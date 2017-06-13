@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Marketing, Botany, and Other Viable Career Options"
-date:   2017-06-12 20:01:29 +0000
+title:  "Marketing, Botany, and Other Viable Options"
+date:   2017-06-12 16:01:29 -0400
 ---
 
 
