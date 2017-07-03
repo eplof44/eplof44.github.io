@@ -13,7 +13,7 @@ There are a bunch of different selectors available, all to make your website loo
 
 There are simple selectors, combination selectors, attribute selectors, parent, child, grandchild selectors - all allowing you to style down to the smallest detail.
 
-Starting broad are our simple selectors. These match one or more elements based on element type, class, or ID.
+Starting broad are our **simple selectors**. These match one or more elements based on element type, class, or ID.
 
 **Example 1:** Here I am styling the ID of 'wall'. I'm giving it a position, margin, image, size, shadow, border. I'll give you a moment to ooo and ahh, but this is pretty simple example of how to style a basic element. 
 
