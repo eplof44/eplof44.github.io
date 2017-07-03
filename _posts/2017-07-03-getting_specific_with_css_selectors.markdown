@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Specific with CSS Selectors "
-date:   2017-07-03 23:33:19 +0000
+date:   2017-07-03 19:33:20 -0400
 ---
 
 
