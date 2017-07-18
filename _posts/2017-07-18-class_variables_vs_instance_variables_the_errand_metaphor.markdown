@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Class Variables vs. Instance Variables (the errand metaphor)"
-date:   2017-07-18 15:55:30 +0000
+title:  "Class Variables vs. Instance Variables (my errand metaphor)"
+date:   2017-07-18 11:55:30 -0400
 ---
 
 
