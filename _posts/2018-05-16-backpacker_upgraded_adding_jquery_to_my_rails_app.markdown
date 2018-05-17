@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Backpacker Upgraded – Adding JQuery to my Rails App"
-date:       2018-05-17 00:43:41 +0000
+date:       2018-05-16 20:43:41 -0400
 permalink:  backpacker_upgraded_adding_jquery_to_my_rails_app
 ---
 
@@ -9,9 +9,7 @@ permalink:  backpacker_upgraded_adding_jquery_to_my_rails_app
 For my JQuery/Rails project I modified my pre-existing Rails app, BackPacker. This was my first experience
 modifying an already existing application which proved to be quite tricky, but also rewarding.
 
-Even after going through and then reviewing all of the JS, AJAX, and Rails material, I was still uncertain as to how
-exactly how all of these components worked together. This project was a great way to see all I had learned but also
-provided me with a working example to recognize my gaps in knowledge.
+Even after going through and then reviewing all of the JS, AJAX, and Rails material, I was still uncertain exactly how all of these components worked together. This project was a great way to see all I had learned but also provided me with a working example to recognize my gaps in knowledge.
 
 One of the first changes I made to the project was setting up my Active Model Serialization and switching over my
 controller actions to render the JSON responses instead of using Rails. I struggled a bit after this to get my
