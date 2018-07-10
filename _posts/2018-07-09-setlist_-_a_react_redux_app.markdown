@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Setlist - a React/Redux App"
-date:       2018-07-10 00:19:25 +0000
+date:       2018-07-09 20:19:26 -0400
 permalink:  setlist_-_a_react_redux_app
 ---
 
@@ -13,9 +13,9 @@ This project was by far the most challenging. It took a few solid days of react/
 
 With the help of a few blogs, I thankfully had little trouble setting up my rails backend. The API setup served as a good refresher for ActiveRecord migrations and I was able to take this opportunity to install PostgreSQL for later deployment to Heroku.
 
-Next, I set up my database, models, serializers, routes, controllers, and seeded my database for testing. I saw that my .json was loaded with my concerts and associated comments. I was feeling good at this point and I decided to create my react client files within the rails app with 'create-react-app.'
+Next, I set up my database, models, serializers, routes, controllers, and seeded my database for testing. I saw that my JSON was loaded with my concerts and associated comments. I was feeling good at this point and I decided to create my react client files within the rails app with 'create-react-app.'
 
-After setting up the initial front end structure  I figured the actions and reducers made the most sense so I could test the api by writing some fetch requests.
+After setting up the initial front end structure  I figured the actions and reducers made the most sense so I could test the API by writing some fetch requests.
 
 Actions
 
@@ -49,7 +49,7 @@ Reducer
     return {...state, concerts: action.concerts}
 ```
 
-At this point, it took me a bit of time to get started on the components.  I read through a lot of code and went through past labs to carefully map the flow of data. Eventually I got my concert form working and seeing the json update with my form inputs was *very* exciting. The concert show pages slowly working after that. Then a lot of break, fix, break, fix, break, repeat.
+At this point, it took me a bit of time to get started on the components.  I read through a lot of code and went through past labs to carefully map the flow of data. Eventually I got my concert form working and seeing the JSON update with my form inputs was *very* exciting. The concert show pages slowly working after that. Then a lot of break, fix, break, fix, break, repeat.
 
 After this I tackled my comments form, ‘I attended’ counter button, and at the end added a ‘random’ concert button to generate for the user a random concert. 
 
